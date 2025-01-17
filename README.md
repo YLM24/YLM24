@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently learning **React, Tailwind, Nodejs, MongoDB,MySQL**.
+- 🔭 I’m currently learning **React, Tailwind, Nodejs, MongoDB, MySQL**.
 
 - 🌱 I’m updating my own proyect, is a webpage of a coffee shop.
 
