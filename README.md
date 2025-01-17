@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **React, Tailwind, Nodejs, MongoDB, MySQL**.
 
-- 🌱 I’m updating my own proyect, is a webpage of a coffee shop.
+- 🌱 I’m updating my own proyect, is a website of a coffee shop.
 
 - ☁️ I've keen interest in Frontend development an UX/UI design.
 
