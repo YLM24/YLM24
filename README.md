@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Yeffer Lozano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">I am a student of software development and i really enjoy being part of the frontend team because in that "line" i can be creative exploring diffirent styles and learning new technologies. </p>
+<p align="center">I am a software development student and I really like being part of the frontend team because in that “line” I can be creative exploring different styles and learning new technologies. </p>
 
 <br>
 
